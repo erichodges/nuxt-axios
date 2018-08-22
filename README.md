@@ -1,6 +1,6 @@
 # axios-test
 
-> My exquisite Nuxt.js project
+
 
 ## Build Setup
 
